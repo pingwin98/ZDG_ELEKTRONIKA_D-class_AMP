@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ZDG_ELEKTRONIKA_D-class_AMP")(type "KiCad")(uri "${KIPRJMOD}/ZDG_ELEKTRONIKA_D-class_AMP.kicad_sym")(options "")(descr ""))
+)
